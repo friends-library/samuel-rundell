@@ -25,11 +25,13 @@ the sentiments of the writer on this subject being well
 expressed in R. Barclay's "`Apology for the true Christian
 Divinity,`" he inserts the following selection from that work.
 
-"`We consider our redemption in a twofold respect or state; both which,
+[quote, , "Apology, prop. 7, sec.3"]
+____
+We consider our redemption in a twofold respect or state; both which,
 in their own nature are perfect; though in their application to us, the one is not,
 nor can be, without respect to the other.
 
-"`The first is, the redemption performed and accomplished by Christ for us,
+The first is, the redemption performed and accomplished by Christ for us,
 in his crucified body, without us: the other is the redemption wrought by Christ in us;
 which no less properly is called and accounted a redemption than the former.
 The first, then, is that whereby a man, as he stands in the fall,
@@ -41,7 +43,7 @@ whereby we witness and know this pure and perfect redemption in ourselves, purif
 cleansing, and redeeming us from the power of corruption; and bringing us into unity,
 favor, and friendship with God.
 
-"`By the first of these two, we that were lost in Adam,
+By the first of these two, we that were lost in Adam,
 plunged into the bitter and corrupt seed, unable of ourselves to do any good thing,
 but naturally joined and united to evil; forward and propense to all iniquity,
 servants and slaves to the power and spirit of darkness, are, notwithstanding all this,
@@ -55,7 +57,7 @@ his own self bore our sins in his own body on the tree.
 And he died for our sins, the just for the unjust.'
 (Eph. 2:15; 1 John 4:10; 1 Peter 2:22,24, and 3:18)
 
-"`By the second, we witness this capacity brought into act; whereby receiving,
+By the second, we witness this capacity brought into act; whereby receiving,
 and not resisting, the purchase of his death, that is, the light, Spirit,
 and grace of Christ revealed in us, we witness and possess a real,
 true and inward redemption from the power and prevalency of sin;
@@ -71,7 +73,8 @@ being the will of God,) so also can none now partake of the first,
 but as he witnesses the last.
 Therefore as to us, they are both causes of our justification;
 the first the procuring efficient, the other the formal cause.`"
-Apology, prop. 7, sec. 3.
+____
+
 
 As it is evident from Scripture testimony,
 that it is absolutely requisite to our complete redemption,
