@@ -6,7 +6,7 @@ in whom I am well pleased; hear Him!`" (2 Pet. 1:17, Matt. 17:5)
 He, whose doctrine we are thus commanded to hear, and of course reverently to embrace,
 declared:
 
-[quote]
+[quote.scripture]
 ____
 (John 3:16) "`God so loved the world, that He gave His only begotten Son,
 that whoever believes in Him should not perish but have everlasting life.
@@ -158,7 +158,7 @@ because he has not believed in the name of the only begotten Son of God;`" (John
 He then proceeded still more particularly to point out the _cause_ of condemnation.
 For He immediately added:
 
-[quote, , John 3:19-21]
+[quote.scripture, , John 3:19-21]
 ____
 And this is the condemnation, that the light has come into the world,
 and men loved darkness rather than light, because their deeds were evil.

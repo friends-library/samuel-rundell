@@ -4,7 +4,7 @@
 In the conversation which our Lord condescended to hold with the woman of Samaria,
 he declared:
 
-[quote, , John 4:23-24]
+[quote.scripture, , John 4:23-24]
 ____
 The hour is coming, and now is,
 when the true worshipers will worship the Father in spirit and truth;
@@ -273,7 +273,7 @@ In returning to the description which the apostle gives of his own experience
 already quoted, let us take into view what he says in another place,
 on the same important subject:
 
-[quote, , Rom 6:3-6]
+[quote.scripture, , Rom 6:3-6]
 ____
 Or do you not know that as many of us as were baptized into Christ Jesus
 were baptized into His death?
