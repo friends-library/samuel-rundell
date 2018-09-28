@@ -1,0 +1,10 @@
+/* prevent awkward page breaks in first two short chapters */
+.trim--m #_forward_by_the_editor h2,
+.trim--m #_introduction h2 {
+  margin-top: 1.9in;
+}
+
+/* keep footnote with "It must not be supposed" from BAD location */
+.trim--m #ch3-baptism h2 {
+  margin-top: 2.65in;
+}
