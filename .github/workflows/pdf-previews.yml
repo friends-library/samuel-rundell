@@ -27,6 +27,6 @@ jobs:
         with:
           githubToken: ${{ github.token }}
       - name: create pdf previews
-        uses: friends-library/friends-library/actions/pdf@d8561ed4
+        uses: friends-library/friends-library/actions/pdf@d81dca52
         with:
           GITHUB_TOKEN: ${{ github.token }}
