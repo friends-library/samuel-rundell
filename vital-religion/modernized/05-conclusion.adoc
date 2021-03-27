@@ -319,4 +319,5 @@ power and wisdom of our God will be exalted in dominion over all.
 '`Even so, Holy Father, your kingdom come, your will be done on earth,
 as it is done in heaven`'
 
-THE END.
+[.the-end]
+The End.
